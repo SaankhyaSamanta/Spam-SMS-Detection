@@ -1,0 +1,30 @@
+Naive Bayes 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       965
+           1       1.00      0.72      0.84       150
+
+    accuracy                           0.96      1115
+   macro avg       0.98      0.86      0.91      1115
+weighted avg       0.96      0.96      0.96      1115
+
+Support Vector Machine 
+              precision    recall  f1-score   support
+
+           0       0.94      1.00      0.97       965
+           1       1.00      0.59      0.74       150
+
+    accuracy                           0.95      1115
+   macro avg       0.97      0.80      0.86      1115
+weighted avg       0.95      0.95      0.94      1115
+
+Logistic Regression 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       965
+           1       0.99      0.75      0.86       150
+
+    accuracy                           0.97      1115
+   macro avg       0.98      0.88      0.92      1115
+weighted avg       0.97      0.97      0.96      1115
+
